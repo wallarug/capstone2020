@@ -1,4 +1,4 @@
-# capstone2020
+# Capstone Projects 2020
 Workspace for Capstone 2020
 
 
