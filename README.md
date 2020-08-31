@@ -24,3 +24,16 @@ Afternoon - PM
 |--|--|--|--|--|--|
 | Saturday | | | | | |
 | Sunday | | | | | |
+
+
+## Teams
+
+| Project ID | Project Name | Team Name | Team Short Code |
+|--|--|--|--|
+| CP31 | Sign Detection using Computer Vision | COMP3888_T13A_Group5 | CP31-13A |
+| CP31 | Sign Detection using Computer Vision | COMP3888_T17A_Group5 | CP31-17A |
+| CP32 | Sign Detection with Tensorflow | COMP3888_T15A_Group4 | CP32-15A |
+| CP32 | Sign Detection with Tensorflow | COMP5615_GROUP2 | CP32-XB |
+| CP33 | Object Detection for Simulated Drones | COMP3988_T17B_Group5 | CP33-17B |
+| CP34 | Optimal Path for Drone Delivery | COMP3888_T15A_Group1 | CP34-15A |
+
