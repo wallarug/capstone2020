@@ -9,13 +9,13 @@ Please contact via email to confirm.
 ## Weekly Meeting Slots - Weekdays
 Afternoon - PM
 
-| | 5:00 to 5:30 | 5:45 to 6:15 | 6:30 to 7:00 | 8:30 to 9:00 |
+| | 5:00 to 5:30 | 6:00 to 6:30 | 6:45 to 7:15 | 8:30 to 9:00 |
 |--|--|--|--|--|
-| Monday | | | | |
+| Monday | | CP34-15A1 | | |
 | Tuesday | | | | |
 | Wednesday | | | | |
 | Thursday | | | | |
-| Friday | | | | |
+| Friday | | CP34-15A1 | | |
 
 ## Weekly Meeting Slots - Weekends
 Afternoon - PM
