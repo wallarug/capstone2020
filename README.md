@@ -11,11 +11,11 @@ Afternoon - PM
 
 | | 5:00 to 5:30 | 6:00 to 6:30 | 6:45 to 7:15 | 8:30 to 9:00 |
 |--|--|--|--|--|
-| Monday | CP31-17A5 | CP34-15A1 | CP32-15A4 | CP32-17A2 |
+| Monday | CP31-17A5 | CP34 | CP32-15A4 | CP32-17A2 |
 | Tuesday | | | | |
 | Wednesday | | | | |
 | Thursday | CP32-15A4 | | | CP32-17A2 |
-| Friday | CP31-17A5 | CP34-15A1 | | |
+| Friday | CP31-17A5 | CP34 | | |
 
 ## Weekly Meeting Slots - Weekends
 Afternoon - PM
@@ -34,6 +34,6 @@ Afternoon - PM
 | CP31 | Sign Detection using Computer Vision | COMP3888_T17A_Group5 | CP31-17A5 |
 | CP32 | Sign Detection with Tensorflow | COMP3888_T15A_Group4 | CP32-15A4 |
 | CP32 | Sign Detection with Tensorflow | COMP5615_GROUP2 | CP32-17A2 |
-| CP33 | Object Detection for Simulated Drones | COMP3988_T17B_Group5 | CP33-17B5 |
-| CP34 | Optimal Path for Drone Delivery | COMP3888_T15A_Group1 | CP34-15A1 |
+| CP33 | Object Detection for Simulated Drones | COMP3988_T17B_Group5 | CP33 |
+| CP34 | Optimal Path for Drone Delivery | COMP3888_T15A_Group1 | CP34 |
 
