@@ -11,10 +11,10 @@ Afternoon - PM
 
 | | 5:00 to 5:30 | 6:00 to 6:30 | 6:45 to 7:15 | 8:30 to 9:00 |
 |--|--|--|--|--|
-| Monday | | CP34-15A1 | | |
+| Monday | | CP34-15A1 | CP32-15A4 | |
 | Tuesday | | | | |
 | Wednesday | | | | |
-| Thursday | | | | |
+| Thursday | CP32-15A4 | | | |
 | Friday | | CP34-15A1 | | |
 
 ## Weekly Meeting Slots - Weekends
