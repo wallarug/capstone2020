@@ -14,8 +14,8 @@ Afternoon - PM
 | Monday | CP31-17A5 | CP34-15A1 | CP32-15A4 | CP32-17A2 |
 | Tuesday | | | | |
 | Wednesday | | | | |
-| Thursday | CP32-15A4 | | | |
-| Friday | CP31-17A5 | CP34-15A1 | | CP32-17A2 |
+| Thursday | CP32-15A4 | | | CP32-17A2 |
+| Friday | CP31-17A5 | CP34-15A1 | | |
 
 ## Weekly Meeting Slots - Weekends
 Afternoon - PM
