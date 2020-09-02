@@ -13,7 +13,7 @@ Afternoon - PM
 |--|--|--|--|--|
 | Monday | CP31-17A5 | CP34 | CP32-15A4 | CP32-17A2 |
 | Tuesday | | | | |
-| Wednesday | | | | |
+| Wednesday | | | CP31-13A5 | |
 | Thursday | CP32-15A4 | | | CP32-17A2 |
 | Friday | CP31-17A5 | CP34 | | |
 
@@ -22,8 +22,7 @@ Afternoon - PM
 
 | | 3:30 to 4:00 | 4:15 to 4:45 | 5:00 to 5:30 | 5:45 to 6:15 | 6:30 to 7:00 |
 |--|--|--|--|--|--|
-| Saturday | | | | | |
-| Sunday | | | | | |
+| Sunday | | CP31-13A5 | | | |
 
 
 ## Teams
