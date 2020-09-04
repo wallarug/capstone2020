@@ -1,6 +1,6 @@
 # Documentation
 
-All documentation to be delivered to the client at the conclusion of the course.
+All documentation to be delivered to the client at the conclusion of the course.  Please publish as a [ReadTheDocs](https://readthedocs.org/) website.
 
 ## Simuator
 
