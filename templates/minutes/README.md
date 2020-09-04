@@ -1,6 +1,8 @@
 # Meetings
 
-This page contains a list of all meetings conducted throughout the project.
+This page contains a list of all meetings conducted throughout the project.  
+
+`suggestion:  name each of the minutes the date of the meeting and what type of meeting it was.  E.g. 2020-09-04 Client.md`
 
 ## Client Meetings
 
