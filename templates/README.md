@@ -2,7 +2,7 @@
 
 **Project Title:**  <project title>  
 **Project Team:** <team code and description>
-Tutor: 
+**Tutor:** <tutor's name here>
 
 ## Project Description
 
