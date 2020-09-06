@@ -3,10 +3,12 @@ Workspace for Capstone 2020
 
 ## Kick off meetings
 
-Please contact via email to confirm.
+Completed.
 
 
 ## Weekly Meeting Slots - Weekdays
+All meetings will be 15 minutes from now on.
+
 Afternoon - PM
 
 | | 5:00 to 5:30 | 6:00 to 6:30 | 6:45 to 7:15 | 8:30 to 9:00 |
@@ -36,3 +38,12 @@ Afternoon - PM
 | CP33 | Object Detection for Simulated Drones | COMP3988_T17B_Group5 | CP33 |
 | CP34 | Optimal Path for Drone Delivery | COMP3888_T15A_Group1 | CP34 |
 
+
+## Project Briefs
+
+| Project ID | Project Name | Team Name | Team Short Code |
+|--|--|--|--|
+| CP31 | Sign Detection using Computer Vision | [Link]() |
+| CP32 | Sign Detection with Tensorflow | [Link]()  |
+| CP33 | Object Detection for Simulated Drones | [Link]()  |
+| CP34 | Optimal Path for Drone Delivery | [Link]()  |
