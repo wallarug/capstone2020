@@ -41,9 +41,9 @@ Afternoon - PM
 
 ## Project Briefs
 
-| Project ID | Project Name | Team Name | Team Short Code |
-|--|--|--|--|
-| CP31 | Sign Detection using Computer Vision | [Link]() |
-| CP32 | Sign Detection with Tensorflow | [Link]()  |
-| CP33 | Object Detection for Simulated Drones | [Link]()  |
-| CP34 | Optimal Path for Drone Delivery | [Link]()  |
+| Project ID | Project Name | Project Proposal |
+|--|--|--|
+| CP31 | Sign Detection using Computer Vision | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP31%20-%20Project%20Proposal.pdf) |
+| CP32 | Sign Detection with Tensorflow | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP32%20-%20Project%20Proposal.pdf)  |
+| CP33 | Object Detection for Simulated Drones | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP33%20-%20Project%20Proposal.pdf)  |
+| CP34 | Optimal Path for Drone Delivery | [Not Available]() |
