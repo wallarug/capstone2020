@@ -1,11 +1,6 @@
 # Capstone Projects 2020
 Workspace for Capstone 2020
 
-## Kick off meetings
-
-Completed.
-
-
 ## Weekly Meeting Slots - Weekdays
 All meetings will be 15 minutes from now on.
 
@@ -26,6 +21,7 @@ Afternoon - PM
 |--|--|--|--|--|--|
 | Sunday | | CP31-13A5 | | | |
 
+Zoom Meeting links have been emailed out to each team.  There are two different links for each meeting.
 
 ## Teams
 
