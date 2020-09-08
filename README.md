@@ -37,9 +37,9 @@ Zoom Meeting links have been emailed out to each team.  There are two different 
 
 ## Project Briefs
 
-| Project ID | Project Name | Project Proposal |
-|--|--|--|
-| CP31 | Sign Detection using Computer Vision | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP31%20-%20Project%20Proposal.pdf) |
-| CP32 | Sign Detection with Tensorflow | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP32%20-%20Project%20Proposal.pdf)  |
-| CP33 | Object Detection for Simulated Drones | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP33%20-%20Project%20Proposal.pdf)  |
-| CP34 | Optimal Path for Drone Delivery | [Not Available]() |
+| Project ID | Project Name | Proposal | Requirements |
+|--|--|--|--|
+| CP31 | Sign Detection using Computer Vision | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP31%20-%20Project%20Proposal.pdf) | [Link](https://github.com/wallarug/capstone2020/blob/master/requirements/CP31%20-%20Scope%20and%20Requirements%20Document%20September%202020%20.pdf) |
+| CP32 | Sign Detection with Tensorflow | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP32%20-%20Project%20Proposal.pdf)  | [Link](https://github.com/wallarug/capstone2020/blob/master/requirements/CP32%20-%20Scope%20and%20Requirements%20Document%20September%202020%20.pdf) |
+| CP33 | Object Detection for Simulated Drones | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP33%20-%20Project%20Proposal.pdf)  | [Link](https://github.com/wallarug/capstone2020/blob/master/requirements/CP33%20-%20Scope%20and%20Requirements%20Document%20September%202020%20.pdf) |
+| CP34 | Optimal Path for Drone Delivery | [Not Available]() | [Link](https://github.com/wallarug/capstone2020/blob/master/requirements/CP34%20-%20Scope%20and%20Requirements%20Document%20September%202020%20.pdf) |
