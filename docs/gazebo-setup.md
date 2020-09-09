@@ -70,8 +70,8 @@ cd ~/ardupilot
 ./waf configure --board sitl
 ./waf copter
 
-cd ArduCopter
-./sim_vehcile.py -w
+cd Tools/autotest
+./sim_vehicle.py -w
 ```
 
 ## Gazebo ##
