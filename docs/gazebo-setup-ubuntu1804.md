@@ -14,16 +14,14 @@ Ubuntu 18.04
 ## Pre-reqs
 Firstly, make sure you have git:
 
-```
-#!bash
+```bash
 sudo apt install git
 ```
 ## ArduPilot ##
 
 Next, we will begin by installing ArduPilot:
 
-```
-#!bash
+```bash
 
 git clone https://github.com/ArduPilot/ardupilot.git
 cd ardupilot
@@ -33,8 +31,7 @@ git submodule update --init --recursive
 
 Install dependencies:
 
-```
-#!bash
+```bash
 
 sudo apt install python-matplotlib python-serial python-wxgtk3.0 python-wxtools python-lxml python-scipy python-opencv ccache gawk python-pip python-pexpect
 
@@ -44,8 +41,7 @@ sudo pip install future pymavlink MAVProxy
 
 After that, add these to your ~/.bashrc (**for this to be permanent, don't run on cmd line, actually edit the bashrc file**):
 
-```
-#!bash
+```bash
 
 export PATH=$PATH:$HOME/ardupilot/Tools/autotest
 export PATH=/usr/lib/ccache:$PATH
@@ -54,8 +50,7 @@ export PATH=/usr/lib/ccache:$PATH
 
 Reload the bashrc:
 
-```
-#!bash
+```bash
 
 . ~/.bashrc
 
@@ -63,8 +58,7 @@ Reload the bashrc:
 
 Test out ArduPilot and build it:
 
-```
-#!bash
+```bash
 
 cd ~/ardupilot
 ./waf configure --board sitl
@@ -78,8 +72,7 @@ sim_vehicle.py -w
 
 Set up to accept software from the OSR Foundation:
 
-```
-#!bash
+```bash
 
 sudo sh -c 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable `lsb_release -cs` main" > /etc/apt/sources.list.d/gazebo-stable.list'
 
@@ -91,8 +84,7 @@ sudo apt update
 
 Install Gazebo:
 
-```
-#!bash
+```bash
 
 sudo apt install gazebo9 libgazebo9-dev
 
@@ -100,8 +92,7 @@ sudo apt install gazebo9 libgazebo9-dev
 
 ## Gazebo ArduPilot Plugin ##
 
-```
-#!bash
+```bash
 
 cd ~
 git clone https://github.com/khancyr/ardupilot_gazebo.git
@@ -117,8 +108,7 @@ sudo make install
 
 Append to your bashrc:
 
-```
-#!bash
+```bash
 
 source /usr/share/gazebo/setup.sh
 
@@ -128,8 +118,7 @@ export GAZEBO_MODEL_PATH=~/ardupilot_gazebo/models
 
 Reload bashrc:
 
-```
-#!bash
+```bash
 
 . ~/.bashrc
 
@@ -137,8 +126,7 @@ Reload bashrc:
 
 Test if it works:
 
-```
-#!bash
+```bash
 
 gazebo --verbose ~/ardupilot_gazebo/worlds/iris_arducopter_runway.world
 
@@ -153,8 +141,7 @@ Gazebo should run from the first command, the second command should initialize t
 ## QGroundControl (Optional) ##
 
 
-```
-#!bash
+```bash
 
 sudo usermod -a -G dialout $USER
 sudo apt-get remove modemmanager
