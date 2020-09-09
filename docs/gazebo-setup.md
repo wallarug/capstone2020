@@ -1,3 +1,5 @@
+# Gazebo Install
+
 These are the instructions for setting up Gazebo, ArduPilot (ArduPilot-Gazebo Plugin) and QGroundControl for the drone sims.
 
 Gazebo is the drone/robotics simulator, ArduPilot is the autopilot software, the plugin is used for both of these software to communicate.
@@ -5,6 +7,11 @@ QGroundControl is **optional** but is useful for manually setting flight mission
 
 For the bashrc related changes, make sure you actually add it in and reload the bashrc file by sourcing it. This will permanently set ENV variables that make Gazebo and ArduPilot work.
 
+## Environment
+Ubuntu 18.04
+
+
+## Pre-reqs
 Firstly, make sure you have git:
 
 ```
