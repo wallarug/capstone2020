@@ -6,7 +6,7 @@ All meetings will be 15 minutes from now on.
 
 Afternoon - PM
 
-| | 5:00 to 5:30 | 6:00 to 6:30 | 6:45 to 7:15 | 8:30 to 9:00 |
+| | 5:00 to 5:15 | 6:00 to 6:15 | 6:45 to 7:00 | 8:30 to 8:45 |
 |--|--|--|--|--|
 | Monday | CP31-17A5 | CP34 | CP32-15A4 | CP32-17A2 |
 | Tuesday | | CP31-13A5 | | CP33 |
@@ -17,7 +17,7 @@ Afternoon - PM
 ## Weekly Meeting Slots - Weekends
 Afternoon - PM
 
-| | 3:30 to 4:00 | 4:15 to 4:45 | 5:00 to 5:30 | 5:45 to 6:15 | 6:30 to 7:00 |
+| | 3:30 to 3:45 | 4:15 to 4:30 | 5:00 to 5:15 | 5:45 to 6:00 | 6:15 to 6:30 |
 |--|--|--|--|--|--|
 | Sunday | | CP31-13A5 | | | |
 
