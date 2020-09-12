@@ -31,7 +31,7 @@ Zoom Meeting links have been emailed out to each team.  There are two different 
 | CP31 | Sign Detection using Computer Vision | COMP3888_T17A_Group5 | CP31-17A5 |
 | CP32 | Sign Detection with Tensorflow | COMP3888_T15A_Group4 | CP32-15A4 |
 | CP32 | Sign Detection with Tensorflow | COMP5615_GROUP2 | CP32-17A2 |
-| CP32 | Sign Detection with Tensorflow | COMP3988 T17B Group 1 | CP32-17B1 |
+| CP32 | Sign Detection with Tensorflow | COMP3988 T17B Group 1 | CP32-17B1 (CP32B) |
 | CP33 | Object Detection for Simulated Drones | COMP3988_T17B_Group5 | CP33 |
 | CP34 | Optimal Path for Drone Delivery | COMP3888_T15A_Group1 | CP34 |
 
