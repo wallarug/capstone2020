@@ -6,7 +6,7 @@ All meetings will be 15 minutes from now on.
 
 Afternoon - PM
 
-| | 5:00 to 5:15 | 6:00 to 6:15 | 6:45 to 7:00 | 8:30 to 8:45 |
+| | 5:00 to 5:15 || 6:00 to 6:15 | 6:45 to 7:00 | 8:30 to 8:45 |
 |--|--|--|--|--|
 | Monday | CP31-17A5 | CP34 | CP32-15A4 | CP32-17A2 |
 | Tuesday | | CP31-13A5 | | CP33 |
