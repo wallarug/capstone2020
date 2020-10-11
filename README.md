@@ -44,3 +44,5 @@ Zoom Meeting links have been emailed out to each team.  There are two different 
 | CP32 | Sign Detection with Tensorflow | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP32%20-%20Project%20Proposal.pdf)  | [Link](https://github.com/wallarug/capstone2020/raw/master/requirements/CP32%20-%20Scope%20and%20Requirements%20Document%20September%202020.pdf) |
 | CP33 | Object Detection for Simulated Drones | [Link](https://github.com/wallarug/capstone2020/blob/master/proposals/CP33%20-%20Project%20Proposal.pdf)  | [Link](https://github.com/wallarug/capstone2020/raw/master/requirements/CP33%20-%20Scope%20and%20Requirements%20Document%20September%202020.pdf) |
 | CP34 | Optimal Path for Drone Delivery | [Not Available]() | [Link](https://github.com/wallarug/capstone2020/raw/master/requirements/CP34%20-%20Scope%20and%20Requirements%20Document%20September%202020.pdf) |
+
+[Week 6 onwards for CP31 & CP32 Teams](https://github.com/wallarug/capstone2020/blob/master/requirements/CP31%20and%20CP32%20-%20Further%20Scope%20Information%20for%20Simulator.pdf)
