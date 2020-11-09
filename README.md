@@ -1,5 +1,5 @@
 # Capstone Projects 2020
-Workspace for Capstone 2020
+Workspace for Capstone 2020.  Semester 2 Sydney University.
 
 ## Weekly Meeting Slots - Weekdays
 All meetings will be 15 minutes from now on.
