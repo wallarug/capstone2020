@@ -82,7 +82,13 @@ put clear links to the following documents:
  ```
  
  
+## Goal & Deliverables
 
+`TODO @wallarug:  insert table of deliverables for each project`
+
+## Testing Results
+
+`TODO @wallarug: insert table of testing for each project with link to data.`
 
 
 
