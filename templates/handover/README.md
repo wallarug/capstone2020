@@ -15,9 +15,17 @@
 - [Requirements Document]()
 - [Updated Requirements Document]()
 
+
+## Code & Respository
 [BitBucket Repository Link 1]()
 
 `insert branch descriptions and purpose here if more than 1 branch`
+
+```
+outline which branch to use and how to deploy your application.  
+For OpenCV Teams, explain which branch the sim is saved on, the opencv code, etc
+For Tensorflow Teams, explain which branch the sim is saved on, where the code to train your model is located, the code to run your model, etc
+```
 
 ---
 ## Team Members & Tasks
@@ -58,6 +66,22 @@
 |--|--|
 | Client Deployment (Week 7) | [YouTube]()
 | Other | |
+
+
+---
+## Documentation
+
+```
+put clear links to the following documents:
+ - deploying / setup environment for your code
+ - docs for creating / modifying your simulator environment (adding tracks/worlds, vehicles, menu modification, etc)
+ - docs for running your solution (TF: how to train a model and run, CV: how to run your code, Gazebo: how to launch)
+ - any extra documentation created
+ 
+ put all documentation into a folder called docs/ in your BitBucket repo and link here
+ ```
+ 
+ 
 
 
 
