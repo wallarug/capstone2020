@@ -1,6 +1,9 @@
 # Capstone Projects 2020
 Workspace for Capstone 2020.  Semester 2 Sydney University.
 
+## EVENT - LIVE STREAM
+The students will be giving their final presentations in a live stream.  Watch here: https://www.youtube.com/watch?v=6H6geVCDLH8
+
 ## Weekly Meeting Slots - Weekdays
 All meetings will be 15 minutes from now on.
 
