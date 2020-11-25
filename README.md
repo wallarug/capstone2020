@@ -4,6 +4,22 @@ Workspace for Capstone 2020.  Semester 2 Sydney University.
 ## EVENT - LIVE STREAM
 The students will be giving their final presentations in a live stream.  Watch here: https://www.youtube.com/watch?v=6H6geVCDLH8
 
+### Run Sheet - Thursday 26th November
+
+4:45 - 5:05:  Technical Testing with Presenters
+5:05:  Everyone joins meeting (opens meeting)
+5:10:  Short Introduction from Client (Cian) about projects and Robotics Masters
+5:15:  Team 1 - CP32-17
+5:30:  Team 2 - CP31-13
+5:45:  Team 3 - CP33
+6:00:  Team 4 - CP34
+6:15:  Team 5 - CP32B
+6:30:  Team 6 - CP31-17
+6:45:  Team 7 - CP32-15
+7:00:  Closing Statements from Client (Cian)
+7:02:  Open Forum / Questions
+7:20:  Meeting Close
+
 ## Weekly Meeting Slots - Weekdays
 All meetings will be 15 minutes from now on.
 
