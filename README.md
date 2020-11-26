@@ -25,3 +25,18 @@ Workspace for Capstone 2020.  Semester 2 Sydney University.
 | CP34 | Optimal Path for Drone Delivery | [Not Available]() | [Link](https://github.com/wallarug/capstone2020/raw/master/requirements/CP34%20-%20Scope%20and%20Requirements%20Document%20September%202020.pdf) |
 
 [Week 6 onwards for CP31 & CP32 Teams](https://github.com/wallarug/capstone2020/blob/master/requirements/CP31%20and%20CP32%20-%20Further%20Scope%20Information%20for%20Simulator.pdf)
+
+## Code Bases
+
+Some are private / not publicly released yet.
+
+| Team ID | BitBucket | Simulator | Sign Detection |
+|--|--|--|--|
+| CP31-13A5 | [Bitbucket](https://bitbucket.org/Osamaaa/comp3888_t13a_group5/src/master/) | [sdsandbox]() | [detect-lib]() |
+| CP31-17A5 | [Bitbucket](https://bitbucket.org/comp3888-t17a/comp3888_t17a_group5/src/master/) | [sdsandbox]() | [detect-lib]() |
+| CP32-15A4 | [Bitbucket](https://bitbucket.org/jarodreynolds/comp3888_t15a_group4/src/master/) | [sdsandbox]() | [detect-lib]() |
+| CP32-17A2 | [Bitbucket](https://bitbucket.org/aradhikaguha/comp5615-group-2/src/master/) | [sdsandbox]() | [detect-lib]() |
+| CP32-17B1 (CP32B) | [Bitbucket](https://bitbucket.org/RobertJia/comp3988_t17b_group1/src/master/) | [sdsandbox]() | [detect-lib]() |
+| CP33 | [Bitbucket]() | [gazebo](https://bitbucket.org/zson5784/comp3988_t17b_group_5/src/master/) | [detect-lib]() |
+| CP34 | [Bitbucket]() | [gazebo(https://bitbucket.org/DylDupe/comp3888_t15a_group1/src/master/) | [algorithm]() |
+
