@@ -33,11 +33,11 @@ Some are private / not publicly released yet.
 
 | Team ID | BitBucket | Simulator | Sign Detection |
 |--|--|--|--|
-| CP31-13A5 | [Bitbucket](https://bitbucket.org/Osamaaa/comp3888_t13a_group5/src/master/) | [sdsandbox]() | [detect-lib]() |
-| CP31-17A5 | [Bitbucket](https://bitbucket.org/comp3888-t17a/comp3888_t17a_group5/src/master/) | [sdsandbox]() | [detect-lib]() |
-| CP32-15A4 | [Bitbucket](https://bitbucket.org/jarodreynolds/comp3888_t15a_group4/src/master/) | [sdsandbox]() | [detect-lib]() |
-| CP32-17A2 | [Bitbucket](https://bitbucket.org/aradhikaguha/comp5615-group-2/src/master/) | [sdsandbox]() | [detect-lib]() |
-| CP32-17B1 (CP32B) | [Bitbucket](https://bitbucket.org/RobertJia/comp3988_t17b_group1/src/master/) | [sdsandbox]() | [detect-lib]() |
+| CP31-13A5 | [Bitbucket](https://bitbucket.org/Osamaaa/comp3888_t13a_group5/src/master/) | [sdsandbox]() | [detect-lib](https://github.com/robotics-masters/opencv-cp31-13) |
+| CP31-17A5 | [Bitbucket](https://bitbucket.org/comp3888-t17a/comp3888_t17a_group5/src/master/) | [sdsandbox]() | [detect-lib](https://github.com/robotics-masters/opencv-cp31-17) |
+| CP32-15A4 | [Bitbucket](https://bitbucket.org/jarodreynolds/comp3888_t15a_group4/src/master/) | [sdsandbox]() | [detect-lib](https://github.com/robotics-masters/tensorflow-cp32-15) |
+| CP32-17A2 | [Bitbucket](https://bitbucket.org/aradhikaguha/comp5615-group-2/src/master/) | [sdsandbox]() | [detect-lib](https://github.com/robotics-masters/tensorflow-cp32-17) |
+| CP32-17B1 (CP32B) | [Bitbucket](https://bitbucket.org/RobertJia/comp3988_t17b_group1/src/master/) | [sdsandbox]() | [detect-lib](https://github.com/robotics-masters/tensorflow-cp32b) |
 | CP33 | [Bitbucket](https://bitbucket.org/zson5784/comp3988_t17b_group_5/src/master/) | [gazebo]() | [detect-lib]() |
 | CP34 | [Bitbucket](https://bitbucket.org/DylDupe/comp3888_t15a_group1/src/master/) | [gazebo]() | [algorithm]() |
 
